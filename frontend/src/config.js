@@ -2,6 +2,8 @@ const config = {
     STRIPE_KEY: "pk_test_ufZA6uIVbShfkDvEQhd3lNTx00xBcPLwK1",
 
     MAX_ATTACHMENT_SIZE: 5000000,
+
+    SENTRY_DSN: "https://25745274c76e4432b6e682e190914108@o1103820.ingest.sentry.io/6130411",
     
     // Backend config
     s3: {
